@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Kapitulli_1\Kapitulli_1\bin\Debug\Kapitulli_1.exe.config
+C:\Users\DELL\source\repos\Kapitulli_1\Kapitulli_1\bin\Debug\Kapitulli_1.exe
+C:\Users\DELL\source\repos\Kapitulli_1\Kapitulli_1\bin\Debug\Kapitulli_1.pdb
+C:\Users\DELL\source\repos\Kapitulli_1\Kapitulli_1\obj\Debug\Kapitulli_1.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Kapitulli_1\Kapitulli_1\obj\Debug\Kapitulli_1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Kapitulli_1\Kapitulli_1\obj\Debug\Kapitulli_1.exe
+C:\Users\DELL\source\repos\Kapitulli_1\Kapitulli_1\obj\Debug\Kapitulli_1.pdb

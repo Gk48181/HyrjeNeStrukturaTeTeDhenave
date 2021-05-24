@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\Kapitulli_1_detyra6\Kapitulli_1_detyra6\obj\Debug\Kapitulli_1_detyra6.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Kapitulli_1_detyra6\Kapitulli_1_detyra6\bin\Debug\Kapitulli_1_detyra6.exe.config
+C:\Users\DELL\source\repos\Kapitulli_1_detyra6\Kapitulli_1_detyra6\bin\Debug\Kapitulli_1_detyra6.exe
+C:\Users\DELL\source\repos\Kapitulli_1_detyra6\Kapitulli_1_detyra6\bin\Debug\Kapitulli_1_detyra6.pdb
+C:\Users\DELL\source\repos\Kapitulli_1_detyra6\Kapitulli_1_detyra6\obj\Debug\Kapitulli_1_detyra6.exe
+C:\Users\DELL\source\repos\Kapitulli_1_detyra6\Kapitulli_1_detyra6\obj\Debug\Kapitulli_1_detyra6.pdb
